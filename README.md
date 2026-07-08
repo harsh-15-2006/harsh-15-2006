@@ -16,7 +16,7 @@ AI student | Blockchain backend intern @ ChainAim
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=harsh-15-2006&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=harsh-15-2006&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-15-2006&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-15-2006&theme=radical)
 
