@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Harsh 👋
 
-<!--
-**harsh-15-2006/harsh-15-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SDE student | Blockchain backend intern @ ChainAim
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: blockchain backend systems at ChainAim
+- 🌱 Learning: Docker, Kubernetes, DevOps workflows
+- 💼 Past work: full-stack dev @ Flitzo (Next.js, Supabase, TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/harshini-a-tech/)
