@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Blockchain+Backend+Developer;SDE+Student;Building+with+Next.js+%26+Python)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Blockchain+Backend+Developer;AI+Student;Building+with+Next.js+%26+Python)
+
 ### Hi, I'm Harsh 👋
 
 AI student | Blockchain backend intern @ ChainAim
@@ -19,5 +20,10 @@ AI student | Blockchain backend intern @ ChainAim
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-15-2006&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-15-2006&theme=radical)
 
+### Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/harsh-15-2006/harsh-15-2006/output/dist/github-contribution-grid-snake-dark.svg)
+
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/harshini-a-tech/)
+
+![Visitors](https://komarev.com/ghpvc/?username=harsh-15-2006&color=blue)
