@@ -1,6 +1,6 @@
 ### Hi, I'm Harsh 👋
 
-SDE student | Blockchain backend intern @ ChainAim
+AI student | Blockchain backend intern @ ChainAim
 
 - 🔭 Currently working on: blockchain backend systems at ChainAim
 - 🌱 Learning: Docker, Kubernetes, DevOps workflows
